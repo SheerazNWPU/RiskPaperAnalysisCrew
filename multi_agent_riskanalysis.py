@@ -580,8 +580,8 @@ class MispredictionRiskOrchestrator:
 # MAIN
 # ============================================================
 if __name__ == "__main__":
-    DEEPSEEK_CHAT_PATH = "/home/15t/Gul/.cache/huggingface/hub/models--deepseek-ai--deepseek-llm-7b-chat/snapshots/main/"
-    PDF_FOLDER = "/home/15t/Gul/SG/cnn/risk_papers"  # Put your PDFs here
+    DEEPSEEK_CHAT_PATH = "/.cache/huggingface/hub/models--deepseek-ai--deepseek-llm-7b-chat/snapshots/main/" 
+    PDF_FOLDER = "/risk_papers"  # Put your PDFs here
     
     print("\n" + "="*70)
     print("?? MISPREDICTION RISK ANALYSIS SYSTEM")
