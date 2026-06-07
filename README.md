@@ -6,24 +6,23 @@ Multi-agent RAG system that reads and answers questions from risk analysis paper
 
 ```markdown
 ## Architecture Diagrams
-
 ### Complete System Architecture
 
-![Complete Architecture](complete_architecture.png) 
+<img src="complete_architecture.png" width="100%">
+
 *Figure 1: Complete multi-agent system architecture*
 
 ### Simplified Architecture
 
-![Simplified Architecture](simplified_architecture.png)
+<img src="simplified_architecture.png" width="80%">
 
 *Figure 2: Simplified view of the agent pipeline*
 
 ### Flow Diagram
 
-![Flow Diagram](agent_flow.png)
+<img src="agent_flow.png" width="80%">
 
-*Figure 2: Data flow through the system*
-
+*Figure 3: Data flow through the system*
 
 ## Pre-Requisites
 ### Downloaded Model Checkpoint (Deepseek in our case)
