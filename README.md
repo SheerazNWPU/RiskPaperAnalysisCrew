@@ -9,24 +9,26 @@ Multi-agent RAG system that reads and answers questions from risk analysis paper
 
 ### Complete System Architecture
 
-![Complete Architecture](images/complete_architecture.png)
+![Complete Architecture](complete_architecture.png)
 
 *Figure 1: Complete multi-agent system architecture*
 
-### Agent Pipeline Sequence
-
-![Agent Pipeline Sequence](images/agent_pipeline_sequence.png)
-
-*Figure 2: Sequence diagram showing agent interactions*
-
 ### Simplified Architecture
 
-![Simplified Architecture](images/simplified_architecture.png)
+![Simplified Architecture](simplified_architecture.png)
 
-*Figure 3: Simplified view of the agent pipeline*
+*Figure 2: Simplified view of the agent pipeline*
 
 ### Flow Diagram
 
-![Flow Diagram](images/flow_diagram.png)
+![Flow Diagram](agent_flow.png)
 
-*Figure 4: Data flow through the system*
+*Figure 2: Data flow through the system*
+
+
+## Pre-Requisites
+### Downloaded Model Checkpoint (Deepseek in our case)
+### Papers in PDF
+
+## Run
+### python multi_agent_riskanalysis.py
