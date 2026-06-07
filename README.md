@@ -9,8 +9,7 @@ Multi-agent RAG system that reads and answers questions from risk analysis paper
 
 ### Complete System Architecture
 
-![Complete Architecture](complete_architecture.png)
-
+![Complete Architecture](complete_architecture.png) 
 *Figure 1: Complete multi-agent system architecture*
 
 ### Simplified Architecture
